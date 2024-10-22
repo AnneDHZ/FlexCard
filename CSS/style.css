@@ -103,7 +103,7 @@ l'image ne déborde pas du cadre */
     color:#610909;
 } */
 
-/* ne fonctionne pas avec live serve */
+/* ne fonctionne pas avec live server */
 .coeur a:visited {
     color: rgb(0, 0, 0);
 }
